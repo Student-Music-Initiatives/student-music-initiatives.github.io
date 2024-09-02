@@ -1,18 +1,11 @@
 ---
-layout: page
-title: Donate
+layout: default
+title:  "Donate"
 permalink: /donate/
+date:   2024-08-29 18:16:45 -0700
+categories: ["Board", "Announcements", "Events", "Info"]
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Donate
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Please donate to Student Music Initiatives. We are a 501(c)(3) nonprofit organization, and your donations are tax-deductible. Your donations help us to provide music education and performance opportunities to students in the greater Seattle area.

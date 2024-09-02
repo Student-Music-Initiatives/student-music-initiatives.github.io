@@ -1,18 +1,11 @@
 ---
-layout: page
-title: Join SMI
+layout: default
+title:  "Join"
 permalink: /join/
+date:   2024-08-29 18:16:45 -0700
+categories: ["Board", "Announcements", "Events", "Info"]
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Join Student Music Initiatives
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Join Student Music Initiatives for cool t-shirts and other stuff.

@@ -1,18 +1,12 @@
 ---
-layout: page
-title: Bylaws and Articles of Incorporation
+layout: default
+title:  "Bylaws and Articles of Incorporation"
 permalink: /bylaws/
+date:   2024-08-29 18:16:45 -0700
+categories: ["Board", "Announcements", "Events", "Info"]
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Bylaws and Articles of Incorporation
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Student Music Initiatives is a nonprofit organization incorporated in the state of Washington. Our bylaws and articles of incorporation are available for download below.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
