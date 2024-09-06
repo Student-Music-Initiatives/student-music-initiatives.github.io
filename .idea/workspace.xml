@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="Big changes">
+      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/04/plantuml-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/04/plantuml-example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/08/mermaid-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/08/mermaid-example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/15/table-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/15/table-example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/18/video-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/18/video-example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/2015/01/01/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/2015/01/01/welcome-to-jekyll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/junk/2016/08/12/my-example-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/junk/2016/08/12/my-example-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/junk/2017/05/20/this-post-demonstrates-post-content-styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/junk/2017/05/20/this-post-demonstrates-post-content-styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/2015/02/28/test-markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2015/02/28/test-markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/2016/01/01/another-test-markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2016/01/01/another-test-markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/2017/06/10/quick-mardown-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2017/06/10/quick-mardown-example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/2018/05/26/mathjax-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2018/05/26/mathjax-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/2018/12/05/an-exhibit-of-markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2018/12/05/an-exhibit-of-markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/misc/2016/05/19/super-short-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/misc/2016/05/19/super-short-article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/misc/2016/05/20/super-long-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/misc/2016/05/20/super-long-article.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lightningbolts&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Student-Music-Initiatives/smi-website.git&quot;,
+    &quot;accountId&quot;: &quot;e797f019-e03b-4003-869b-bf4e79cd2038&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lOPL6NUu8JE6i7FUk9efavKkho" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/timberlake2025/Code/Student Music Initiatives/smi-website&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="smi-website" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="smi-website" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="smi-website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="smi-website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="smi-website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="smi-website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="smi-website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="" />
+      <created>1725048090590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725048090590</updated>
+      <workItem from="1725048091669" duration="10100000" />
+      <workItem from="1725144788143" duration="79000" />
+      <workItem from="1725144906219" duration="8007000" />
+      <workItem from="1725293164026" duration="9760000" />
+      <workItem from="1725416830474" duration="2758000" />
+      <workItem from="1725591137324" duration="69000" />
+      <workItem from="1725592146980" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed stuff">
+      <option name="closed" value="true" />
+      <created>1725048376347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725048376347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed stuff">
+      <option name="closed" value="true" />
+      <created>1725048481298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725048481298</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed lock to update for arm64">
+      <option name="closed" value="true" />
+      <created>1725298066752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725298066752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed markdown for other pages">
+      <option name="closed" value="true" />
+      <created>1725308566251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725308566251</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed _config.yml">
+      <option name="closed" value="true" />
+      <created>1725309248832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725309248832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Big changes">
+      <option name="closed" value="true" />
+      <created>1725418993408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725418993408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Big changes">
+      <option name="closed" value="true" />
+      <created>1725419005011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725419005011</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed stuff" />
+    <MESSAGE value="Changed lock to update for arm64" />
+    <MESSAGE value="Changed markdown for other pages" />
+    <MESSAGE value="Changed _config.yml" />
+    <MESSAGE value="Big changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Big changes" />
+  </component>
+</project>
