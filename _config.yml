@@ -43,8 +43,7 @@ author: Student Music Initiatives
 copyright: "Copyright Student Music Initiatives (cleft) {currentYear}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Student Music Initiatives is a student-led organization that aims to provide a platform for students to showcase their musical talents and collaborate with other musicians. We host events, rehearsals, and performances to promote music education and appreciation in the community.
-
+  SMI is a 501(c)(3) non-profit that connects student leaders, young musicians, and local volunteers who are dedicated to making a positive impact!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "assets/images/favicon.ico" # the favicon for your site
@@ -75,30 +74,34 @@ yat:
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
-# translate_langs:
-#   - lang: en
-#     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
-#     text: English
-#
-#   - lang: fr
-#     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#     text: French
-#
-#   - lang: zh-CN
-#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-#     text: Chinese(Simple)
-#
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
-#
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
-#
-#   - lang: ru
-#     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-#     text: Russian
+translate_langs:
+   - lang: en
+     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+     text: English
+
+   - lang: fr
+     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+     text: French
+
+   - lang: zh-CN
+     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+     text: Chinese(Simple)
+
+   - lang: ja
+     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+     text: Japanese
+
+   - lang: ko
+     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+     text: Korean
+
+   - lang: ru
+     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
+     text: Russian
+
+   - lang: de
+     img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+     text: German
 
 # You can choose a theme color
 # Default theme colors as below:
