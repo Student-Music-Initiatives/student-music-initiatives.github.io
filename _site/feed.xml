@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-19T21:00:52-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Student Music Initiatives</title><subtitle>SMI is a 501(c)(3) non-profit that connects student leaders, young musicians, and volunteers who are dedicated to making a positive impact!</subtitle><author><name>Student Music Initiatives</name></author><entry><title type="html">SMI Board Meeting</title><link href="http://localhost:4000/board/meeting/2024/09/15/board-meeting.html" rel="alternate" type="text/html" title="SMI Board Meeting" /><published>2024-09-15T00:00:00-07:00</published><updated>2024-09-15T00:00:00-07:00</updated><id>http://localhost:4000/board/meeting/2024/09/15/board-meeting</id><content type="html" xml:base="http://localhost:4000/board/meeting/2024/09/15/board-meeting.html"><![CDATA[<h2 id="information">Information</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-15T21:23:49-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Student Music Initiatives</title><subtitle>SMI is a 501(c)(3) non-profit that connects student leaders, young musicians, and volunteers who are dedicated to making a positive impact!</subtitle><author><name>Student Music Initiatives</name></author><entry><title type="html">SMI Board Meeting</title><link href="http://localhost:4000/board/meeting/2024/09/15/board-meeting.html" rel="alternate" type="text/html" title="SMI Board Meeting" /><published>2024-09-15T00:00:00-07:00</published><updated>2024-09-15T00:00:00-07:00</updated><id>http://localhost:4000/board/meeting/2024/09/15/board-meeting</id><content type="html" xml:base="http://localhost:4000/board/meeting/2024/09/15/board-meeting.html"><![CDATA[<h2 id="information">Information</h2>
 
 <table>
   <thead>
@@ -29,7 +29,136 @@
       <td>None</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Kairui</name></author><category term="Board" /><category term="Meeting" /><category term="meeting" /><category term="board" /><summary type="html"><![CDATA[Information]]></summary></entry><entry><title type="html">1st SMI End of the Year Ceremony!</title><link href="http://localhost:4000/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html" rel="alternate" type="text/html" title="1st SMI End of the Year Ceremony!" /><published>2024-06-20T00:00:00-07:00</published><updated>2024-06-20T00:00:00-07:00</updated><id>http://localhost:4000/event/2024/06/20/SMI-End-of-the-Year-Ceremony</id><content type="html" xml:base="http://localhost:4000/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html"><![CDATA[<p><img src="/assets/images/IMG_8580.jpg" alt="banner" /></p>
+</table>
+
+<h2 id="minutes">Minutes</h2>
+
+<ul>
+  <li>SMI Drive reorganization (Elizabeth)</li>
+  <li>SMI website updates (Shota/Kairui)</li>
+  <li>Decided on tentative CMC performance dates</li>
+  <li>
+    <ul>
+      <li>December 8th, 2024</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>December 14th, 2024</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>December 15th, 2024</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>December 21th, 2024</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>December 22th, 2024</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>December 23th, 2024</li>
+    </ul>
+  </li>
+  <li>Discussed orchestra involvement</li>
+  <li>
+    <ul>
+      <li>Staggered shifts/rotations</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Possibly inside Alderwood Mall</li>
+    </ul>
+  </li>
+  <li>Equipment and Logistics</li>
+  <li>
+    <ul>
+      <li>Piano, drum set, amp</li>
+    </ul>
+  </li>
+  <li>Working with National Honor Society</li>
+  <li>
+    <ul>
+      <li>Community service hours</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Separate schedule for Music and General Volunteers</li>
+    </ul>
+  </li>
+  <li>Music Hanges (Nick/Elaina)</li>
+  <li>
+    <ul>
+      <li>Teach background parts/harmony</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Organize rehearsals</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Make music more interesting</li>
+    </ul>
+  </li>
+  <li>Advisory Board</li>
+  <li>
+    <ul>
+      <li>Two representatives from each school</li>
+    </ul>
+  </li>
+  <li>Next meeting: 2024-10-06, 12:00 PM</li>
+</ul>
+
+<h2 id="action-items">Action Items</h2>
+
+<ul>
+  <li>Elizabeth: SMI Drive reorganization</li>
+  <li>Shota/Kairui: Continue working on SMI website</li>
+  <li>Nick/Elaina: Music changes</li>
+  <li>Take inventory of equipment</li>
+  <li>Schedule bank transfer meeting</li>
+  <li>Zane/Kairui: Ask Kowalski/Fix about forming club/chapter and potential issues</li>
+  <li>Pherell/Kairui: Contact Alderwood Mall for CMC performance</li>
+  <li>Recruiting volunteers</li>
+  <li>
+    <ul>
+      <li>Get in front of band/orchestra classes to talk about SMI</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Draft Instagram post about SMI and CMC</li>
+    </ul>
+  </li>
+  <li>Schedule rehearsals</li>
+  <li>
+    <ul>
+      <li>Determine if Viking Time works</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Select tentative dates for rehearsals and send out Google Form to members</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>Set official rehearsal schedule</li>
+    </ul>
+  </li>
+  <li>Create schedule for music vs. general volunteers</li>
+</ul>]]></content><author><name>Kairui</name></author><category term="Board" /><category term="Meeting" /><category term="meeting" /><category term="board" /><summary type="html"><![CDATA[Information]]></summary></entry><entry><title type="html">1st SMI End of the Year Ceremony!</title><link href="http://localhost:4000/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html" rel="alternate" type="text/html" title="1st SMI End of the Year Ceremony!" /><published>2024-06-20T00:00:00-07:00</published><updated>2024-06-20T00:00:00-07:00</updated><id>http://localhost:4000/event/2024/06/20/SMI-End-of-the-Year-Ceremony</id><content type="html" xml:base="http://localhost:4000/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html"><![CDATA[<p><img src="/assets/images/IMG_8580.jpg" alt="banner" /></p>
 
 <p>Thank you everyone who came to the 1st SMI Ceremony! For those who missed it: <a href="https://docs.google.com/presentation/d/1e5lqDM61iIdvPt3VTh8GcFCgEFACvrCZkRAwL_bGOA8/edit?usp=sharing">Presentation Link</a></p>
 
