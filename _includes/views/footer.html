@@ -3,14 +3,14 @@
 
   <div class="wrapper">
     <div class="site-footer-inner">
-        {%- assign currentYear = 'now' | date: "%Y" -%}
-        {%- assign copyright = site.copyright
-            | replace: '{currentYear}', currentYear
-            | replace: '{author}', site.author
-            | replace: '(c)', '&copy;'
-            | replace: '(p)', '℗'
-            | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
-        -%}
+      {%- assign currentYear = 'now' | date: "%Y" -%}
+      {%- assign copyright = site.copyright
+          | replace: '{currentYear}', currentYear
+          | replace: '{author}', site.author
+          | replace: '(c)', '&copy;'
+          | replace: '(p)', '℗'
+          | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
+      -%}
       <div>{{ copyright }}</div>
       <div>
         <a href="https://drive.google.com/file/d/11DlqNy2i9Sbun1MyycVLSS1ewpC7LeFe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Bylaws</a>
@@ -18,7 +18,50 @@
       <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
       generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
       another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
+      <div class="footer-row">
+        <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
+        <div class="footer-social-media">
+          <p>Follow us on social media:</p>
+          <ul class="social-media">
+            <li><a href="https://www.facebook.com/studentmusicinitiatives/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://www.instagram.com/student_music_initiatives/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/student-music-initiatives/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+              <li><a href="https://discord.gg/vpYSpvz59Z" target="_blank"><i class="fab fa-discord"></i></a></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </footer>
+
+<style>
+  .footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+  }
+  .footer-social-media {
+    text-align: right;
+  }
+  .social-media {
+    list-style: none;
+    padding: 0;
+  }
+  .social-media li {
+    display: inline;
+    margin: 0 10px;
+  }
+  .social-media a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .social-media a:hover {
+    color: #ddd;
+  }
+</style>
+
+<!-- Add Font Awesome CDN in the head of your HTML -->
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>

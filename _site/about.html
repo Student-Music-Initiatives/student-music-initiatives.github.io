@@ -340,7 +340,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
           </label>
 
           <div class="trigger">
-<a class="page-link" href="/about.html">ABOUT</a><a class="page-link" href="/join.html">GETTING INVOLVED</a><a class="page-link" href="/archives.html">ARCHIVES</a><a class="page-link" href="/store.html">STORE</a><a class="page-link" href="/donate.html">DONATE</a><a class="page-link" href="/">HOME</a>
+<a class="page-link" href="/about.html">ABOUT</a><a class="page-link" href="/join.html">GETTING INVOLVED</a><a class="page-link" href="/archives.html">ARCHIVES</a><a class="page-link" href="/store.html">STORE</a><a class="page-link" href="/tags.html">TAGS</a><a class="page-link" href="/donate.html">DONATE</a><a class="page-link" href="/">HOME</a>
 
 
 
@@ -903,16 +903,63 @@ function googleTranslateElementInit() {
 
       <h2>About</h2>
 
-<p><img class="emoji" title=":art:" alt=":art:" raw="🎨" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png" style="vertical-align: middle; display: inline; max-width: 1em; visibility: hidden;" onload="this.style.visibility='visible'" onerror="this.replaceWith(this.getAttribute('raw'))"> Yet another theme for elegant writers with modern flat style
-and beautiful night mode.
+<p>
+    Conceived in 2011 and officially incorporated in 2013, SMI is a 501(c)(3) nonprofit that is completely student-run and student-led. We strive to give opportunities for aspiring individuals to contribute to their community through making music, marketing to the public, handling donations, and more! Over the years, we've connected countless communities together through the universal language and power of music.
 </p>
 
 <p>
-Hey, nice to meet you, you found this Jekyll theme. Here the yet another
-theme is a modern theme, and it's quite clear, clean and neat for writers
-and posts.
+    Our mission is to provide a platform for students to express themselves through music and to give back to the community. We aim to foster a sense of community and togetherness through music, and to provide a space for students to grow and develop their skills. We are thankful for the support of our community and are excited to continue to grow and expand our reach.
 </p>
 
+<h2>Our Board Members</h2>
+
+<!-- Make a table in markdown -->
+<table>
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Executive Director</td>
+      <td>Kairui Cheng</td>
+    </tr>
+    <tr>
+      <td>Vice Executive Director</td>
+      <td>Zane Rubenstein</td>
+    </tr>
+    <tr>
+      <td>Secretary</td>
+      <td>Elizabeth Wang</td>
+    </tr>
+    <tr>
+      <td>Treasurer</td>
+      <td>Shota Ogushi</td>
+    </tr>
+    <tr>
+      <td>Volunteer Director</td>
+      <td>Tiara Roy</td>
+    </tr>
+    <tr>
+      <td>Music Director(s)</td>
+      <td>Elaina Dumaliang</td>
+    </tr>
+    <tr>
+      <td>Music Director(s)</td>
+      <td>Nick Ang</td>
+    </tr>
+    <tr>
+      <td>Public Relation Director</td>
+      <td>Pherell Layanto</td>
+    </tr>
+    <tr>
+      <td>Media Director</td>
+      <td>Katie Prindle</td>
+    </tr>
+  </tbody>
+</table>
 
 
     </div>
@@ -1062,10 +1109,52 @@ and posts.
       <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
       generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
       another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <div class="footer-col rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a>
+      <div class="footer-row">
+        <div class="footer-col rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a>
 </div>
+        <div class="footer-social-media">
+          <p>Follow us on social media:</p>
+          <ul class="social-media">
+            <li><a href="https://www.facebook.com/studentmusicinitiatives/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://www.instagram.com/student_music_initiatives/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/student-music-initiatives/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+              <li><a href="https://discord.gg/vpYSpvz59Z" target="_blank"><i class="fab fa-discord"></i></a></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </footer>
+
+<style>
+  .footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+  }
+  .footer-social-media {
+    text-align: right;
+  }
+  .social-media {
+    list-style: none;
+    padding: 0;
+  }
+  .social-media li {
+    display: inline;
+    margin: 0 10px;
+  }
+  .social-media a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .social-media a:hover {
+    color: #ddd;
+  }
+</style>
+
+<!-- Add Font Awesome CDN in the head of your HTML -->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </body>
 </html>

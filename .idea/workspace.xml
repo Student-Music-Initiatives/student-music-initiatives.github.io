@@ -5,21 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="Big changes">
-      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/04/plantuml-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/04/plantuml-example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/08/mermaid-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/08/mermaid-example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/15/table-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/15/table-example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/example/2017/12/18/video-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017/12/18/video-example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/smi-website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smi-website.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/views/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archives.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/board/meeting/2024/09/15/board-meeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/board/meeting/2024/09/15/board-meeting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/donate.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/donate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/2024/10/13/CMC-Dates.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/2024/10/13/CMC-Dates.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/2015/01/01/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/2015/01/01/welcome-to-jekyll.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/junk/2016/08/12/my-example-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/junk/2016/08/12/my-example-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/junk/2017/05/20/this-post-demonstrates-post-content-styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/junk/2017/05/20/this-post-demonstrates-post-content-styles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown/2015/02/28/test-markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2015/02/28/test-markdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown/2016/01/01/another-test-markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2016/01/01/another-test-markdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown/2017/06/10/quick-mardown-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2017/06/10/quick-mardown-example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown/2018/05/26/mathjax-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2018/05/26/mathjax-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown/2018/12/05/an-exhibit-of-markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/2018/12/05/an-exhibit-of-markdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/misc/2016/05/19/super-short-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/misc/2016/05/19/super-short-article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/misc/2016/05/20/super-long-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/misc/2016/05/20/super-long-article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/join.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/store.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/join.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getting involved" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +58,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/timberlake2025/Code/Student Music Initiatives/smi-website&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/timberlake2025/Code/Student Music Initiatives/smi-website",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/css" />
@@ -173,8 +180,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
       </set>
     </attachedChunks>
   </component>
@@ -193,6 +199,13 @@
       <workItem from="1725416830474" duration="2758000" />
       <workItem from="1725591137324" duration="69000" />
       <workItem from="1725592146980" duration="12000" />
+      <workItem from="1729980860465" duration="121000" />
+      <workItem from="1730694898543" duration="17000" />
+      <workItem from="1730776168934" duration="91000" />
+      <workItem from="1730776264287" duration="12000" />
+      <workItem from="1731106457561" duration="186000" />
+      <workItem from="1731106681326" duration="24000" />
+      <workItem from="1731189999357" duration="8851000" />
     </task>
     <task id="LOCAL-00001" summary="Changed stuff">
       <option name="closed" value="true" />
