@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="Big changes">
-      <change afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/smi-website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smi-website.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="More big changes; added socials, edited about.html and join.html, etc...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/views/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/board/meeting/2024/09/15/board-meeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/board/meeting/2024/09/15/board-meeting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/donate.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/donate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/2024/06/20/SMI-End-of-the-Year-Ceremony.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/2024/10/13/CMC-Dates.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/2024/10/13/CMC-Dates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/store.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about us" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/getting involved" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/timberlake2025/Code/Student Music Initiatives/smi-website",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/timberlake2025/Code/Student Music Initiatives/smi-website&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/css" />
@@ -205,7 +185,11 @@
       <workItem from="1730776264287" duration="12000" />
       <workItem from="1731106457561" duration="186000" />
       <workItem from="1731106681326" duration="24000" />
-      <workItem from="1731189999357" duration="8851000" />
+      <workItem from="1731189999357" duration="8996000" />
+      <workItem from="1731259890238" duration="45000" />
+      <workItem from="1731648913378" duration="35000" />
+      <workItem from="1731648952681" duration="13000" />
+      <workItem from="1732127021176" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="Changed stuff">
       <option name="closed" value="true" />
@@ -263,7 +247,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725419005011</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="More big changes; added socials, edited about.html and join.html, etc...">
+      <option name="closed" value="true" />
+      <created>1731209585054</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731209585054</updated>
+    </task>
+    <task id="LOCAL-00009" summary="More big changes; added socials, edited about.html and join.html, etc...">
+      <option name="closed" value="true" />
+      <created>1731209590855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731209590855</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +286,7 @@
     <MESSAGE value="Changed markdown for other pages" />
     <MESSAGE value="Changed _config.yml" />
     <MESSAGE value="Big changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Big changes" />
+    <MESSAGE value="More big changes; added socials, edited about.html and join.html, etc..." />
+    <option name="LAST_COMMIT_MESSAGE" value="More big changes; added socials, edited about.html and join.html, etc..." />
   </component>
 </project>
