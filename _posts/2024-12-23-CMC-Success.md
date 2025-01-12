@@ -20,3 +20,10 @@ Total raised: $4733.55
 We had musicians and donation handlers from Inglemoor, Bothell, North Creek, Mariner, Juanita, and more participate, as well as thousands pass by our performances. Lots of new faces and familiar alumni!
 
 Have a pleasant winter break and a merry Christmas!
+
+![banner](/assets/images/2024-12-14-1.jpeg)
+![banner](/assets/images/2024-12-7-1.jpeg)
+![banner](/assets/images/2024-12-15-1.jpeg)
+![banner](/assets/images/2024-12-21-1.jpeg)
+![banner](/assets/images/2024-12-22-1.jpeg)
+![banner](/assets/images/2024-12-22-2.jpeg)
