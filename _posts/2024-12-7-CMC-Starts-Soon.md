@@ -1,3 +1,11 @@
+---
+layout: post
+title: CMC Starts Soon
+author: Kairui
+categories: Event
+tags: event CMC performance dates upcoming
+---
+
 Howdy everyone!
 
 CMC starts tomorrow at the Alderwood Mall, in front of the food court/fireplace. Setup time is 10:00 AM, playing time is 11:00 AM, and we end at 5:00 PM.

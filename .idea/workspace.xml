@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="More big changes; added socials, edited about.html and join.html, etc...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74807177-4b38-4db0-aadb-30a823795f32" name="Changes" comment="Added new post" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,6 +188,7 @@
       <workItem from="1731648913378" duration="35000" />
       <workItem from="1731648952681" duration="13000" />
       <workItem from="1732127021176" duration="225000" />
+      <workItem from="1733623692203" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="Changed stuff">
       <option name="closed" value="true" />
@@ -263,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731209590855</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added new post">
+      <option name="closed" value="true" />
+      <created>1733623823538</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733623823538</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +294,7 @@
     <MESSAGE value="Changed _config.yml" />
     <MESSAGE value="Big changes" />
     <MESSAGE value="More big changes; added socials, edited about.html and join.html, etc..." />
-    <option name="LAST_COMMIT_MESSAGE" value="More big changes; added socials, edited about.html and join.html, etc..." />
+    <MESSAGE value="Added new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new post" />
   </component>
 </project>
