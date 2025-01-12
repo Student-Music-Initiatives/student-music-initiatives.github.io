@@ -10,12 +10,12 @@ Thank you everyone who volunteered and stopped by during our final stretch! We a
 
 Total raised: $4733.55
 
-Day 1: $806.99
-Day 2: $533.38
-Day 3: $613.00
-Day 4: $793.46
-Day 5: $1184.98
-Day 6: $801.74
+- Day 1: $806.99
+- Day 2: $533.38
+- Day 3: $613.00
+- Day 4: $793.46
+- Day 5: $1184.98
+- Day 6: $801.74
 
 We had musicians and donation handlers from Inglemoor, Bothell, North Creek, Mariner, Juanita, and more participate, as well as thousands pass by our performances. Lots of new faces and familiar alumni!
 
